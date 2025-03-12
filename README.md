@@ -59,9 +59,6 @@ The server will start on `http://0.0.0.0:8080`. Open this URL in your web browse
 - **Sound Effects**: Background music and sound effects for line clears and game over.
 - **Responsive Design**: The game is responsive and works on different screen sizes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
